@@ -1,0 +1,14 @@
+{
+  "project": "ernst-mach-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "HopvwqdYWgkVh7JJuQFf9uKi3XaxAa2SU7ML2rmgMj8Z",
+  "vault_account": "8eTwUzpex2K7GYqg8o5pcBnRPk5FaRQ7jJ4N5jigHqrr",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2JAFQDsxTk6amKdkyhCZ1M18aNj1Ry3XSqVqJfyiwSqKYGvNDqFBUiFurM6D15drDwAkHAK2xvhx1BC9uoUtixrs",
+  "account_tx": "NU7kfnpG3A1ywgPanhBt5aw2ird3j5BqK7L278ig1AA3uFqN8EGB8JhNPtZgiZmQ4eB18RgDhkUBQ7MbjzWBB5x",
+  "mint_tx": "49x9Tf3SXQLPVoH9SJd1uVQyps6ahses69JpJt7ivkkPD9UBssWpPZT5a79oTKsM3ZqWS1SsNjAvxuPmKbDgUCya",
+  "solana_explorer_mint": "https://explorer.solana.com/address/HopvwqdYWgkVh7JJuQFf9uKi3XaxAa2SU7ML2rmgMj8Z?cluster=devnet",
+  "timestamp": "2026-10-26 16:30:29 UTC"
+}
